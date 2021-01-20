@@ -1,5 +1,6 @@
 # ZOPCORN! A movie searching react webapp
-_Movie data extracted from themoviedb API_
+_With movie data extracted from themoviedb API_
+[Visit ZOPCORN!](https://zhermin.github.io/zopcorn/)
 
 ---
 
